@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Docker (1)": {
+      "commandName": "Docker"
+    }
+  }
+}

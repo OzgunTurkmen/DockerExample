@@ -1,0 +1,8 @@
+﻿
+volume -> dataları kalıcı kılmayı sağlayan yöntem
+	bind mount -> dataları gerçek işletim sistemine kaydeder.
+	docker volume -> docker'ın içindeki özel alan. cli komutları ile yönetilebilir.
+	tmpfs mount -> memory'e kaydeder.
+	 
+	 docker create volume images
+	 -v images:/app/wwroot/images
